@@ -1,0 +1,8 @@
+mainDeck:(81,65)(L,T,R,T,C,C,C,C,L,w,R,R,L,T,w,L,W,C,L,T,C,W,R,R,L,W,W,L,L,T,R,R,L,R,T,W,W,C,L,T,T,C,C,C,R,T,w,W,C,L,T,R,C,L,W,T,R,L,L,R,T,L,W,R,T,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x)
+betDeck:(5,1)(L,x,x,x,x)
+discardDeck:(81,2)(W,T,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x)
+playDeck:(8,0)(x,x,x,x,x,x,x,x)
+player0:(H,sdf)(7,6)(L,W,C,L,T,C,x)(3,3)(C,R,W)
+player1:(B, Bot )(7,6)(R,L,T,R,W,C,x)(3,3)(W,T,T)
+animais:(0,1,6,0,0,0,
+)

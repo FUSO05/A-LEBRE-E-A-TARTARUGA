@@ -1,0 +1,37 @@
+1. Composição:
+
+-Tabuleiro: 9 vagas de caminho normais, 2 vagas de caminho com ribeiro e o espaço de chegada.
+-Corredores: Lebre, Tartaruga, Lobo, Raposa, Cordeiro, cada um com uma marca de cor.
+-Cartas de Aposta: Uma carta para cada animal, distribuída secretamente aos jogadores.
+-Cartas de Corrida: 81 cartas distribuídas entre os animais, com diferentes quantidades para cada um.
+-Objetivo: Obter o maior número de pontos através de apostas nos corredores.
+
+2. Preparação do Jogo:
+
+-Dois jogadores: Humano e Bot.
+-Distribuição de cartas de aposta e escolha de uma carta de corrida adicional.
+-Fases de Influência e Corrida em cada rodada.
+
+3. Desenrolar do Jogo:
+
+-Rondas compostas por Fase de Influência e Fase de Corrida.
+-Na Fase de Influência, os jogadores jogam cartas de sua mão para a mesa, seguindo regras de limite.
+-Fim da Fase de Influência quando os limites são atingidos.
+-Fase de Corrida: Movimento dos animais com base nas cartas jogadas.
+
+4. Regras de Movimento dos Animais:
+
+-Lobo a Uivar: Paralisa todos os animais, exceto o lobo.
+-Sequência de Movimento: Lebre, Tartaruga, Lobo, Raposa, Cordeiro.
+-Especificidades de Movimento para cada animal com base nas cartas jogadas.
+
+5. Condições de Fim de Jogo:
+
+O jogo termina quando 3 ou mais corredores cruzam a linha de chegada.
+Pontuação: 1º lugar (5 pontos), 2º lugar (3 pontos), 3º lugar (2 pontos), Restantes (0 pontos).
+Vencedor: Jogador com mais pontos. Em caso de empate, desempate pelas apostas iniciais.
+
+6. Fim do Jogo:
+
+-O jogo termina quando 3 ou mais corredores terminam a corrida.
+-Pontuação final baseada nas apostas e desempate se necessário.
